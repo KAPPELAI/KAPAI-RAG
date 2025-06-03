@@ -53,7 +53,7 @@ def auth_ui():
             st.rerun()
 
 def main():
-    st.title("AI Chat Interface")
+    st.title("KAPAI Chatbot")
     init_session_state()
 
     if st.session_state.auth is None:

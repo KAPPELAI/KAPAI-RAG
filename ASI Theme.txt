@@ -1,0 +1,6 @@
+ASI Theme
+primaryColor="#ffffff"
+backgroundColor="#f3f3f3"
+secondaryBackgroundColor="#0f853c"
+textColor="#054a25"
+font="monospace"
